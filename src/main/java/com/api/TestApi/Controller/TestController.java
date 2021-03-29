@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.api.TestApi.Service.TestService;
 
+//This info is changed into Main from GIT
 @RestController
 public class TestController {
 	@Autowired
